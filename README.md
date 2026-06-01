@@ -1,14 +1,17 @@
 # Eva Georgieva
 
-Security Engineer. Pentester. Builder of things that shouldn't exist yet.
+Security Engineer. Pentester. AI security researcher. 
+Professional finder of things that shouldn't be found.
 
-I break into systems for a living — then automate the parts that bored me.
-Currently at the intersection of offensive security and AI, which is either
-the most interesting place to be right now or the most dangerous. Probably both.
+I've spent years breaking into systems, automating the parts
+that bored me, and building tools that didn't exist yet.
+Currently at the part where AI makes all of that
+simultaneously easier and more terrifying.
+
+I also built [The Cybersecurity Gym](https://thecybersecuritygym.com).
 
 Founder of [The Cybersecurity Gym](https://instagram.com/thecybersecuritygym) —
-a community where people learn to actually think like an attacker.
-Free mentoring every Friday. No gatekeeping.
+a community where people get a clear direction about their cybersecurity journey.
 
 ---
 
