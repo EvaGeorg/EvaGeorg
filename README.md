@@ -8,7 +8,7 @@ that bored me, and building tools that didn't exist yet.
 Currently at the part where AI makes all of that
 simultaneously easier and more terrifying.
 
-Founder of [The Cybersecurity Gym](https://instagram.com/thecybersecuritygym) —
+Founder of [The Cybersecurity Gym](https://thecybersecuritygym.com) —
 the first one-on-one cybersecurity mentoring platform.
 
 ---
